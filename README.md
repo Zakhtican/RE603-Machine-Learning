@@ -1,1 +1,2 @@
-#  Machine learning practices
+# Python
+Mengerjakan OOP
